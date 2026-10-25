@@ -1,0 +1,81 @@
+{
+    "Easy": [
+        {
+            "name": "e",
+            "time": 14.338
+        },
+        {
+            "name": "Guest",
+            "time": 21.133
+        },
+        {
+            "name": "Xiem NoPro",
+            "time": 21.181
+        },
+        {
+            "name": "Hung san",
+            "time": 21.836
+        },
+        {
+            "name": "Guest",
+            "time": 22.57
+        },
+        {
+            "name": "e",
+            "time": 22.792
+        },
+        {
+            "name": "Guest",
+            "time": 23.801
+        },
+        {
+            "name": "Guest",
+            "time": 28.324
+        },
+        {
+            "name": "Guest",
+            "time": 28.495
+        },
+        {
+            "name": "Guest",
+            "time": 28.508
+        }
+    ],
+    "Normal": [
+        {
+            "name": "abc",
+            "time": 163.896
+        },
+        {
+            "name": "nho cc",
+            "time": 176.92
+        },
+        {
+            "name": "Guest",
+            "time": 177.721
+        }
+    ],
+    "Hard": [],
+    "Expert": [
+        {
+            "name": "a",
+            "time": 92.518
+        },
+        {
+            "name": "T1 6cup",
+            "time": 93.914
+        },
+        {
+            "name": "Xiem Boss",
+            "time": 97.765
+        },
+        {
+            "name": "XiemPromax",
+            "time": 130.687
+        },
+        {
+            "name": "NNN",
+            "time": 132.092
+        }
+    ]
+}
